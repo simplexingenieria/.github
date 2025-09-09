@@ -1,61 +1,67 @@
-📌 Quiénes Somos
+# Simplex Ingeniería
 
-Somos una empresa orientada al desarrollo de proyectos en el área de procesos, mediante consultoría experta, proyectos de ingeniería y servicios que integren nuestros conocimientos en el área de procesamiento de minerales, procesos químicos y electroquímica industrial. Nuestra experiencia nos permite dar soluciones integrales a nuestros clientes con énfasis en la productividad del proceso y actualizaciones en nuevas tecnologías. 
-simplexingenieria.cl
+**Simplex Ingeniería** es una empresa chilena especializada en el desarrollo de proyectos de ingeniería, servicios especializados y soluciones tecnológicas para la industria minera y procesos industriales. Con sede en Rancagua, nos enfocamos en ofrecer soluciones integrales que optimicen la productividad y eficiencia de nuestros clientes.
 
-🛠️ Qué Hacemos
-Ingeniería
+---
 
-Ingeniería de prefactibilidad
+## 📌 Quiénes Somos
 
-Ingeniería conceptual
+Somos una empresa orientada al desarrollo de proyectos en el área de procesos, mediante consultoría experta, proyectos de ingeniería y servicios que integren nuestros conocimientos en el área de procesamiento de minerales, procesos químicos y electroquímica industrial. Nuestra experiencia nos permite dar soluciones integrales a nuestros clientes con énfasis en la productividad del proceso y actualizaciones en nuevas tecnologías.
 
-Ingeniería básica
+---
 
-Ingeniería de detalles
+## 🛠️ Qué Hacemos
 
-Tecnología
+### Ingeniería
 
-Diseño, ingeniería y fabricación de sistemas automáticos de muestreo metalúrgico para pulpas y sólidos de mineral.
+- Ingeniería de prefactibilidad
+- Ingeniería conceptual
+- Ingeniería básica
+- Ingeniería de detalles
 
-Suministro de analizadores de leyes FRX en línea y tamaño de partículas.
+### Tecnología
 
-Servicios Especializados
+- Diseño, ingeniería y fabricación de sistemas automáticos de muestreo metalúrgico para pulpas y sólidos de mineral.
+- Suministro de analizadores de leyes FRX en línea y tamaño de partículas.
 
-Continuidad operacional, calibración y mantención de equipos analizadores de leyes en línea y tamaño de partículas.
+### Servicios Especializados
 
-Servicio de mantención y calibración de sensores de pH y potencial Redox.
+- Continuidad operacional, calibración y mantención de equipos analizadores de leyes en línea y tamaño de partículas.
+- Servicio de mantención y calibración de sensores de pH y potencial Redox.
+- Estudio de representatividad y validación de sistemas de muestreo.
 
-Estudio de representatividad y validación de sistemas de muestreo.
+---
 
-📊 Proyectos Destacados
+## 📊 Proyectos Destacados
 
-Minera Escondida (2018): Ingeniería de mejora de analizador Los Colorados.
+- **Minera Escondida (2018):** Ingeniería de mejora de analizador Los Colorados.
+- **Minera Centinela (AMSA, 2015):** Estudio de métodos de reconciliación y tolerancias de balance metalúrgicos en planta concentradora.
+- **Minera Valle Central (2015):** Ingeniería de detalles para torre de muestreo de alimentación en planta Cauquenes (60 kton/día).
 
-Minera Centinela (AMSA, 2015): Estudio de métodos de reconciliación y tolerancias de balance metalúrgicos en planta concentradora.
+---
 
-Minera Valle Central (2015): Ingeniería de detalles para torre de muestreo de alimentación en planta Cauquenes (60 kton/día).
-
-🧩 Nuestros Clientes
+## 🧩 Nuestros Clientes
 
 Hemos trabajado con importantes empresas del sector minero, incluyendo:
 
-Codelco Chile
+- **Codelco Chile**
+- **Anglo American Chile**
+- **Minera Escondida**
+- **Minera Centinela (AMSA)**
+- **Minera Valle Central**
 
-Anglo American Chile
+---
 
-Minera Escondida
+## 📞 Contacto
 
-Minera Centinela (AMSA)
+- **Dirección:** Ignacio Carreras Pinto 978, Rancagua, Chile
+- **Teléfono:** +56 72 2 740 705
+- **Correo electrónico:** [contacto@simplexingenieria.cl](mailto:contacto@simplexingenieria.cl)
 
-Minera Valle Central
+---
 
-📞 Contacto
+## 🔗 Enlaces de interés
 
-Dirección: Ignacio Carreras Pinto 978, Rancagua, Chile
-
-Teléfono: +56 72 2 740 705
-
-Correo electrónico: contacto@simplexingenieria.cl
-
-🔗 Enlaces de interés
+- [Sitio web oficial](https://www.simplexingenieria.cl/)
+- [Proyectos desarrollados](https://www.simplexingenieria.cl/index-5.html)
+- [Servicios especializados](https://www.simplexingenieria.cl/index-12.html)
