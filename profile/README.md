@@ -1,7 +1,4 @@
 # Simplex Ingeniería
-
-**Simplex Ingeniería** es una empresa chilena especializada en el desarrollo de proyectos de ingeniería, servicios especializados y soluciones tecnológicas para la industria minera y procesos industriales. Con sede en Rancagua, nos enfocamos en ofrecer soluciones integrales que optimicen la productividad y eficiencia de nuestros clientes.
-
 ---
 
 ## 📌 Quiénes Somos
